@@ -5,7 +5,7 @@ import java.util.Set;
 
 // union, difference, intersection
 
-public class LinkedHashSet_21_1 {
+public class Homework11_1 {
     public static void main(String[] args){
         Set<String> set1 = new LinkedHashSet<>();
         Set<String> set2 = new LinkedHashSet<>();
